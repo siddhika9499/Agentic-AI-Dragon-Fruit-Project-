@@ -1,0 +1,8 @@
+streamlit>=1.40
+tensorflow>=2.16      # use the same major version you trained with (Colab: 2.19/2.20)
+opencv-python-headless
+numpy
+pillow
+matplotlib
+pandas
+openai                 # optional - used with Google's OpenAI-compatible Gemini API for the Advisor / chat
